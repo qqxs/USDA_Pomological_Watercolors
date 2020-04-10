@@ -1,0 +1,33 @@
+{
+  "name": "node_crawler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qqxs/USDA_Pomological_Watercolors.git"
+  },
+  "keywords": [],
+  "author": "shineshao <xiaoshaoqq@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qqxs/USDA_Pomological_Watercolors/issues"
+  },
+  "homepage": "https://github.com/qqxs/USDA_Pomological_Watercolors#readme",
+  "dependencies": {
+    "@koa/router": "^9.0.0",
+    "axios": "^0.19.2",
+    "cheerio": "^1.0.0-rc.3",
+    "koa": "^2.11.0",
+    "koa-static": "^5.0.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.9.0",
+    "@babel/plugin-transform-runtime": "^7.9.0",
+    "@babel/preset-env": "^7.9.5",
+    "@babel/register": "^7.9.0"
+  }
+}
