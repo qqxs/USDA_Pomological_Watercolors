@@ -19,4 +19,4 @@
 
 ## 版权
 
-所有的数据和图片版权归[USDA Pomological Watercolors](https://usdawatercolors.nal.usda.gov/)所有，与本人无关。侵删
+所有的数据和图片版权归[USDA Pomological Watercolors](https://naldc.nal.usda.gov/usda_pomological_watercolor)所有，与本人无关。侵删
