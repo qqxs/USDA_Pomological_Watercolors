@@ -1,5 +1,9 @@
 ## Node Crawler USDA Pomological Watercolors
 
+资源地址有变动。请自己修改，新的地址 https://naldc.nal.usda.gov/usda_pomological_watercolor?page=1&q=&search_field=all_fields
+
+DOM 也有变化，请自行修改爬取内容
+
 ## desc
 
 爬取美国农业部果树水彩的数据， 图片比较漂亮
