@@ -35,7 +35,7 @@ async function getData(start) {
   console.log(start);
   return axios
     .get(
-      `${baseUrl}/pom/search.xhtml?start=${start}&searchText=&searchField=&sortField=`
+      `${baseUrl}?page=${start}&q=&search_field=all_fields`
     )
     .then((response) => {
       let html_string = response.data.toString();
